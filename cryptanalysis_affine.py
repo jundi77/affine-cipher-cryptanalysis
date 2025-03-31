@@ -143,7 +143,7 @@ def m_inverse_affine(m, n):
     
 
     """
-    Alas, x is the modular inverse. But! If x is negative, it may cause
+    Thus, x is the modular inverse. But! If x is negative, it may cause
     problems since, in affine, character (if using character) position is
     indexed in positive value (e.g. 1 is a).
     """
